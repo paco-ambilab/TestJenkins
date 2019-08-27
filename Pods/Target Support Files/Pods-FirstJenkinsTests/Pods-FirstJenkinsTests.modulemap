@@ -1,0 +1,6 @@
+framework module Pods_FirstJenkinsTests {
+  umbrella header "Pods-FirstJenkinsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
